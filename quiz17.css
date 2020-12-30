@@ -1,0 +1,42 @@
+/* .container-fluid{
+    border: 1px solid lightgrey;
+    margin: 0;
+    padding: 0;
+} */
+
+/* .col-sm-2,
+.col-sm-4,
+.col-sm-9,
+.col-sm-12
+{
+    background-color: lightblue;
+} */
+
+.footer{
+    background-color: rgba(0, 0, 0, 0.837)
+}
+
+h2{
+    color: lightblue;
+}
+
+ul{
+    color: lightblue;
+    list-style: none;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+i{
+    color: white;
+    width: 40px;
+    height: 40px;
+    margin: 7px;
+}
